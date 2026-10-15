@@ -1,0 +1,7 @@
+openmm>=8.1
+mdtraj>=1.10
+numpy
+pandas
+scipy
+matplotlib
+scikit-learn
